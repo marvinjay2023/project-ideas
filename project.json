@@ -1,0 +1,303 @@
+[
+  {
+    "id": 1,
+    "title": "Personal Portfolio with Blog",
+    "description": "Create a personal portfolio website with an integrated blog where users can add, edit, and delete posts. This is an excellent project for learning the basics of frontend and backend development and gaining foundational experience in your tech stack",
+    "features": [
+      "User-friendly UI with responsive design",
+      "Basic authentication for blog management",
+      "Markdown editor for creating blog posts",
+      "Dynamic routing for blog posts and pages"
+    ],
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 2,
+    "title": "E-commerce Platform",
+    "description": "Build a full-featured e-commerce website with product listings, a shopping cart, and a payment gateway. This project introduces more complex frontend features and backend integration",
+    "features": [
+      "Product search, filter, and sorting",
+      "Shopping cart and checkout process",
+      "Payment integration",
+      "User profiles with order history"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 3,
+    "title": "Social Media Dashboard",
+    "description": "A lightweight social media dashboard where users can track analytics from various social media platforms. This app focuses on frontend skills with API integration and asynchronous data handling.",
+    "features": [
+      "Data visualization with charts",
+      "OAuth authentication for connecting social accounts",
+      "Summary metrics for followers, views, likes, etc.",
+      "Dark mode and user-friendly UI"
+    ],
+    "difficulty": "Advanced Beginner"
+  },
+  {
+    "id": 4,
+    "title": "Real-time Chat Application",
+    "description": "Develop a chat app with real-time messaging, channels, and private messaging. Users can send files and create groups, making it an ideal project for understanding websockets and handling asynchronous events.",
+    "features": [
+      "Real-time messaging and file sharing",
+      "Channel creation and group chats",
+      "Typing indicators and user online status",
+      "User authentication and profile management"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 5,
+    "title": "Full-Stack Video Streaming Platform",
+    "description": "Build a video streaming platform similar to YouTube with video uploads, streaming, and recommendations. This project covers advanced frontend and backend concepts, such as media handling, data streaming, and video encoding.",
+    "features": [
+      "Video upload and encoding with HLS",
+      "Content search, recommendations, and categories",
+      "Commenting and likes/dislikes on videos",
+      "User authentication and video history tracking"
+    ],
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 6,
+    "title": "Task Management App with Kanban and Real-time Collaboration",
+    "description": "Create a task management platform with a Kanban board that supports real-time collaboration between users. The app should allow users to assign tasks, set deadlines, and track progress collaboratively.",
+    "features": [
+      "Task creation, assignment, and tracking",
+      "Real-time collaboration and notifications",
+      "Kanban board and drag-and-drop functionality",
+      "Team member roles and permissions"
+    ],
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 7,
+    "title": "Decentralized Marketplace on Blockchain",
+    "description": "Develop a decentralized marketplace where users can list items for sale, bid, or buy with cryptocurrency. The project provides hands-on experience with blockchain, smart contracts, and decentralized applications (dApps).",
+    "features": [
+      "Smart contracts for item listings, bidding, and transactions",
+      "User wallet integration and profile management",
+      "Transaction history with blockchain integration",
+      "Secure storage for assets with IPFS"
+    ],
+    "difficulty": "Expert"
+  },
+  {
+    "id": 8,
+    "title": "AI-powered Image and Video Editor",
+    "description": "Create an AI-powered image and video editor with advanced capabilities like background removal, color grading, and face detection. This project combines AI with practical applications in media editing.",
+    "features": [
+      "Background removal and object detection",
+      "Filters and effects with real-time previews",
+      "Basic video editing tools (trimming, merging)",
+      "Export options and quality settings"
+    ],
+    "difficulty": "Expert"
+  },
+  {
+    "id": 9,
+    "title": "SaaS Project Management Tool",
+    "description": "Build a project management SaaS platform that features task tracking, project timelines, and collaboration tools, ideal for freelancers and teams. This project introduces full-scale SaaS architecture, security, and subscription management.",
+    "features": [
+      "Multi-tenant setup with project workspaces",
+      "Real-time updates and notifications",
+      "Role-based access control (RBAC) for team management",
+      "Payment integration and subscription management with Stripe"
+    ],
+    "difficulty": "Expert"
+  },
+  {
+    "id": 10,
+    "title": "Weather Dashboard",
+    "description": "Build a weather dashboard that shows real-time weather information and forecasts for selected cities. Great for learning API integration and data display.",
+    "features": [
+      "Search for weather by city",
+      "Display current temperature, humidity, and weather conditions",
+      "7-day weather forecast",
+      "7-day weather forecast"
+    ],
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 11,
+    "title": "Recipe Sharing App",
+    "description": "Create a platform where users can browse, add, and share recipes. Users can filter by ingredients, cuisine, and dietary preferences.",
+    "features": [
+      "Recipe listing and detailed view",
+      "User authentication and profile management",
+      "Search and filter by ingredients and dietary restrictions",
+      "Favorite and save recipes"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 12,
+    "title": "Real-Time Multiplayer Game",
+    "description": "Build a real-time multiplayer game where players can join rooms, interact, and compete in mini-games. A fun project to dive into WebSockets and game logic.",
+    "features": [
+      "Lobby and room management",
+      "Real-time player movement and actions",
+      "Game scoring and leaderboard",
+      "Chat within game rooms"
+    ],
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 13,
+    "title": "Blogging Platform with Markdown Editor",
+    "description": "A blogging platform where users can write, edit, and publish posts using a Markdown editor. Users can view and comment on each other's posts.",
+    "features": [
+      "Rich text and Markdown editor for posts",
+      "Commenting on posts",
+      "User profile and post history",
+      "Like, share, and save articles"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 14,
+    "title": "Pomodoro Timer with Task Management",
+    "description": "A Pomodoro timer app where users can track their focus sessions and create tasks with time goals.",
+    "features": [
+      "Timer for 25-minute focus sessions and 5-minute breaks",
+      "Task list with time estimates and completed tracking",
+      "Sound and notification reminders",
+      "Dark mode option"
+    ],
+    "difficulty": "Advanced Beginner"
+  },
+  {
+    "id": 15,
+    "title": "Full-Stack Social Media Platform",
+    "description": "Build a fully functional social media platform where users can create profiles, share posts, follow others, and like content.",
+    "features": [
+      "User authentication and profile management",
+      "Post creation, editing, and deletion",
+      "Follower system and notifications",
+      "Real-time feed updates and comment section"
+    ],
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 16,
+    "title": "Expense Tracker with Budget Analysis",
+    "description": "Build an app that allows users to log their expenses, categorize them, and analyze spending trends over time.",
+    "features": [
+      "Add, edit, and delete expense entries",
+      "Categorization of expenses",
+      "Monthly and yearly expense reports",
+      "Graphical charts for spending analysis"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 17,
+    "title": "News Aggregator with Category Filters",
+    "description": "Create a news aggregation app that pulls in news from various sources and allows users to filter by categories like technology, sports, and health.",
+    "features": [
+      "Real-time news updates by category",
+      "Search functionality for specific news",
+      "Responsive and visually engaging layout",
+      "Bookmark feature for saving articles"
+    ],
+    "difficulty": "Advanced Beginner"
+  },
+  {
+    "id": 18,
+    "title": "Crypto Portfolio Tracker",
+    "description": "Develop a cryptocurrency portfolio tracker where users can monitor and analyze the value of their crypto holdings.",
+    "features": [
+      "Add and manage multiple cryptocurrencies",
+      "Real-time price updates and portfolio valuation",
+      "Graphs for value history and price alerts",
+      "Integration with major wallets like MetaMask"
+    ],
+    "difficulty": "Expert"
+  },
+  {
+    "id": 19,
+    "title": "Language Translation App with History",
+    "description": "Build a translation app where users can translate phrases into multiple languages and view their translation history.",
+    "features": [
+      "Text input and translation to multiple languages",
+      "Translation history with timestamps",
+      "Option to save favorite translations",
+      "Simple and intuitive UI"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 20,
+    "title": "AI-powered Document Scanner and Analyzer",
+    "description": "Create a document scanner app that uses OCR (Optical Character Recognition) to scan documents and extract text. Optionally, add AI to categorize and analyze content.",
+    "features": [
+      "Document scanning and text extraction",
+      "Text categorization using AI",
+      "Save scanned documents and export as PDF",
+      "Optical character recognition for multi-language support"
+    ],
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 21,
+    "title": "Habit Tracker with Progress Analytics",
+    "description": "Build a habit tracker where users can log daily habits and view progress over time. A simple project focused on data persistence and analytics.",
+    "features": [
+      "Track daily habits with simple toggles",
+      "Progress analytics with weekly and monthly overviews",
+      "Customizable habit names and icons",
+      "Dark mode support"
+    ],
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 22,
+    "title": "Fitness and Workout Planner",
+    "description": "Create a fitness app where users can build workout routines, set goals, and track progress. An ideal project to build CRUD functionality and understand data modeling.",
+    "features": [
+      "Create, edit, and delete workout plans",
+      "Daily progress tracking and goal setting",
+      "Exercise library with searchable routines",
+      "Visual animations for a dynamic user experience"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 23,
+    "title": "Personal Finance Tracker with Budgeting",
+    "description": "Build an app for tracking daily expenses, budgeting, and analyzing spending. Focuses on financial data entry and visualization.",
+    "features": [
+      "Add, edit, and categorize expenses",
+      "Set budgets and track progress",
+      "Graphs for spending analysis by category",
+      "Notifications when nearing budget limits"
+    ],
+    "difficulty": "Advanced Beginner"
+  },
+  {
+    "id": 24,
+    "title": "Book Recommendation System",
+    "description": "Create a book recommendation system where users can search for books, read reviews, and get recommendations based on interests.",
+    "features": [
+      "Search for books and view details",
+      "User reviews and ratings",
+      "Recommendation engine based on user preferences",
+      "User profiles with favorite books"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 25,
+    "title": "Book Recommendation System",
+    "description": "Develop a video conferencing platform supporting multiple participants, screen sharing, and chat functionalities.",
+    "features": [
+      "Video and audio calls with multiple participants",
+      "Screen sharing and chat during calls",
+      "Mute/unmute and video toggle options",
+      "Session history and participant tracking"
+    ],
+    "difficulty": "Advanced"
+  },
+]
+
