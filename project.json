@@ -298,6 +298,306 @@
       "Session history and participant tracking"
     ],
     "difficulty": "Advanced"
+  },
+  {
+    "id": 26,
+    "title": "Daily Journal App with Calendar Integration",
+    "description": "Create a journaling app that allows users to write daily entries and view them on a calendar. Helps with data handling and integrating calendars.",
+    "features": [
+      "Daily journal entry with rich text",
+      "Calendar view to access past entries",
+      "Mood tracking with each entry",
+      "Data export option to PDF"
+    ],
+    "difficulty": "Advanced Beginner"
+  },
+  {
+    "id": 27,
+    "title": "Restaurant Reservation System",
+    "description": "Build a restaurant reservation system that allows users to book tables and see availability in real-time.",
+    "features": [
+      "Book, modify, or cancel reservations",
+      "View available times and table options",
+      "Notifications for booking confirmations",
+      "Admin panel to manage reservations"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 28,
+    "title": "Health Data Dashboard with IoT Integration",
+    "description": "Create a dashboard that collects health data (e.g., heart rate, steps) from IoT devices and visualizes it with trends and analysis.",
+    "features": [
+      "Real-time data sync with IoT health devices",
+      "Weekly and monthly health reports",
+      "Visualization of heart rate, sleep patterns, etc.",
+      "Health goals and progress tracking"
+    ],
+    "difficulty": "Expert"
+  },
+  {
+    "id": 29,
+    "title": "Recipe Sharing App with Voice Recognition",
+    "description": "Build a recipe app where users can add, edit, and share recipes, with the unique addition of voice recognition for hands-free cooking.",
+    "features": [
+      "Voice instructions for hands-free cooking",
+      "Recipe search and filter",
+      "Add and edit personal recipes",
+      "User reviews and ratings"
+    ],
+    "difficulty": "Advanced Beginner"
+  },
+  {
+    "id": 30,
+    "title": "AI-powered Language Learning Platform",
+    "description": "Create a language learning platform with AI-powered grammar checks, pronunciation guides, and flashcards.",
+    "features": [
+      "AI grammar checks for writing exercises",
+      "Pronunciation feedback and guide",
+      "Flashcards with spaced repetition",
+      "Weekly progress and goal tracking"
+    ],
+    "difficulty": "Expert"
+  },
+  {
+    "id": 31,
+    "title": "Music Playlist Generator with Recommendations",
+    "description": "Develop an app that generates personalized playlists based on mood, genre, and user activity. Integrate with music APIs for data.",
+    "features": [
+      "Mood and genre-based playlist generation",
+      "Add and save custom playlists",
+      "User activity-based recommendations",
+      "Integration with Spotify for playback"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 32,
+    "title": "Job Application Tracker",
+    "description": "Build an app to track job applications, including statuses, deadlines, and networking contacts. Helpful for job seekers to stay organized.",
+    "features": [
+      "Add, edit, and organize job applications",
+      "Track statuses (e.g., applied, interviewed, offered)",
+      "Reminders for follow-ups and deadlines",
+      "Company research and notes"
+    ],
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 33,
+    "title": "Real-Time Cryptocurrency Trading Simulator",
+    "description": "Create a simulated cryptocurrency trading platform where users can trade with virtual currency based on real-time market data.",
+    "features": [
+      "Real-time cryptocurrency price updates",
+      "Buy and sell cryptocurrencies with virtual funds",
+      "Track portfolio growth and performance",
+      "Leaderboard for top traders"
+    ],
+    "difficulty": "Expert"
+  },
+  {
+    "id": 34,
+    "title": "To-Do List with Reminders",
+    "description": "A simple to-do list app where users can create tasks, set deadlines, and receive reminders. Ideal for beginners learning CRUD and local storage.",
+    "features": [
+      "Add, edit, and delete tasks",
+      "Set deadlines and receive notifications",
+      "Mark tasks as completed",
+      "Priority-based task sorting"
+    ],
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 35,
+    "title": "Personal Budget Tracker with Monthly Analysis",
+    "description": "A budgeting app that helps users categorize and analyze expenses on a monthly basis.",
+    "features": [
+      "Add expenses with category tags",
+      "Monthly analysis of spending habits",
+      "Set budgets for each category",
+      "Visual data representation with graphs"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 36,
+    "title": "Task Timer with Pomodoro Technique",
+    "description": "A productivity tool that helps users focus on tasks using the Pomodoro technique, including work intervals and break reminders.",
+    "features": [
+      "25-minute work intervals with 5-minute breaks",
+      "Notifications for work and break start/end",
+      "Task list with completion tracking",
+      "Timer reset and customization options"
+    ],
+    "difficulty": "Advanced Beginner"
+  },
+  {
+    "id": 37,
+    "title": "Personal Document Vault with Encryption",
+    "description": "A secure vault where users can upload and store personal documents with encryption for privacy.",
+    "features": [
+      "Upload, organize, and delete documents",
+      "End-to-end encryption for document security",
+      "User authentication and access control",
+      "Tagging and search functionality"
+    ],
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 38,
+    "title": "Job Search Engine with Custom Filters",
+    "description": "A job search platform that aggregates job listings and allows users to filter results by skills, location, and experience level.",
+    "features": [
+      "Advanced search and filter options",
+      "Bookmark and apply for jobs directly",
+      "User profiles with saved job searches",
+      "Email notifications for new listings"
+    ],
+    "difficulty": "Expert"
+  },
+  {
+    "id": 39,
+    "title": "Recipe Box with Ingredient Shopping List",
+    "description": "An app where users can save favorite recipes and generate a shopping list based on selected ingredients.",
+    "features": [
+      "Add, edit, and save recipes",
+      "Ingredient-based shopping list generator",
+      "Search for recipes by ingredients",
+      "Share recipes with friends"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 40,
+    "title": "Peer-to-Peer File Sharing App",
+    "description": "A decentralized file-sharing app where users can share files directly with peers using WebRTC.",
+    "features": [
+      "Secure file sharing between peers",
+      "File size limit and progress indicators",
+      "User authentication for private sharing",
+      "Chat feature during file transfer"
+    ],
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 41,
+    "title": "AI-Driven Movie Recommendation System",
+    "description": "Create a movie recommendation system that learns user preferences and recommends movies based on watch history.",
+    "features": [
+      "User profiles with favorite genres",
+      "Personalized movie recommendations",
+      "Machine learning model for user preferences",
+      "Rating system and watchlist"
+    ],
+    "difficulty": "Expert"
+  },
+  {
+    "id": 42,
+    "title": "Travel Itinerary Planner with Maps Integration",
+    "description": "A travel planner where users can create, edit, and save trip itineraries with an interactive map.",
+    "features": [
+      "Add and manage trip details and stops",
+      "Map integration for route planning",
+      "Itinerary sharing with friends",
+      "Budget estimation for trip expenses"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 43,
+    "title": "Book Library with Online Reading Tracker",
+    "description": "A virtual book library where users can save and track reading progress for each book.",
+    "features": [
+      "Save books and track reading progress",
+      "Rate and review completed books",
+      "Reading history and book recommendations",
+      "Search and filter by genre"
+    ],
+    "difficulty": "Advanced Beginner"
+  },
+  {
+    "id": 44,
+    "title": "Fitness Tracking App with GPS Integration",
+    "description": "Build an app where users can track their workouts, including GPS-tracked running or cycling sessions.",
+    "features": [
+      "Track GPS-based activities (running, cycling)",
+      "Record distance, time, and calories burned",
+      "View route on a map with location markers",
+      "Set and track fitness goals"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 45,
+    "title": "E-commerce Platform with AI-powered Product Recommendations",
+    "description": "Create an e-commerce platform with personalized recommendations powered by AI, including purchase and browsing history.",
+    "features": [
+      "Product catalog with categories",
+      "AI-based personalized recommendations",
+      "Cart and checkout with Stripe integration",
+      "User profiles and order history"
+    ],
+    "difficulty": "Expert"
+  },
+  {
+    "id": 46,
+    "title": "Remote Team Collaboration Board",
+    "description": "A Kanban-style project management board for remote teams to collaborate on tasks in real-time.",
+    "features": [
+      "Create and assign tasks to team members",
+      "Real-time board updates and notifications",
+      "Chat for team discussions",
+      "Analytics for team productivity"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 47,
+    "title": "Notes App with Rich Text Editing",
+    "description": "A notes app with a rich text editor for creating and organizing notes, similar to Google Keep.",
+    "features": [
+      "Create, edit, and delete notes with rich text",
+      "Organize notes with tags and folders",
+      "Offline access with local storage",
+      "Search notes by content or tags"
+    ],
+    "difficulty": "Advanced Beginner"
+  },
+  {
+    "id": 48,
+    "title": "Real-Time Stock Market Dashboard",
+    "description": "Develop a real-time stock market dashboard that displays stock data, trends, and news with AI-driven predictions.",
+    "features": [
+      "Real-time stock price updates",
+      "Visual stock trends with AI predictions",
+      "Personalized watchlists",
+      "News integration for stock updates"
+    ],
+    "difficulty": "Expert"
+  },
+  {
+    "id": 49,
+    "title": "Mental Health Journal with Mood Tracking",
+    "description": "Build a mental health journal app where users can log their mood and view trends over time.",
+    "features": [
+      "Daily mood logging with tags",
+      "Mood trend analysis over weeks and months",
+      "Add journal entries for each day",
+      "Private, secure data storage"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 50,
+    "title": "IoT Home Automation Dashboard",
+    "description": "A home automation dashboard for managing and monitoring IoT-enabled devices like lights, thermostat, and security.",
+    "features": [
+      "Connect and control IoT devices remotely",
+      "Real-time status updates and notifications",
+      "Energy usage reports and optimization tips",
+      "User profiles and access control for device management"
+    ],
+    "difficulty": "Advanced"
   }
 ]
 
