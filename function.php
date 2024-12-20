@@ -10,14 +10,17 @@ function dd($value){
 }
 
 //identify difficulty or the project
-function checkDifficulty(){
+function checkDifficulty($value){
     $difficulty = [
-        'Beginner' => 'Beginner',
-        'Advanced Beginner' => 'Advanced Beginner',
-        'Intermediate' => 'Intermediate',
-        'Expert' => 'Expert'
+        'Beginner' => 'text-bg-success',
+        'Advanced Beginner' => 'text-bg-primary',
+        'Advanced' => 'text-bg-secondary',
+        'Intermediate' => 'text-bg-warning',
+        'Expert' => 'text-bg-danger'
     ];
 
-    dd($difficulty);
+    if(array_key_exists($value, $difficulty)){
+        return $difficulty[$value];
+    }
 
 }

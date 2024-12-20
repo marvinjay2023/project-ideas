@@ -8,7 +8,7 @@
     $(document).ready(function() {
         $('#projects').DataTable({
             order: [
-                [0, 'desc']
+                [0, 'asc']
             ],
         });
 
