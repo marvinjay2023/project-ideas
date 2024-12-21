@@ -8,7 +8,7 @@ require 'partials/nav.php';
 
 <div class="container">
     <div class="row">
-        <div class="table-responsive table-responsive-data3 mt-5">
+        <div class="table-responsive mt-5">
             <table id="projects" class="table table-striped" style="width:100%">
                     <thead class="table-dark">
                         <tr>
@@ -22,8 +22,8 @@ require 'partials/nav.php';
                         <?php foreach($project as $projects): ?>
                             <tr> 
                             <td class="visually-hidden"><?= $projects['id'] ?></td>
-                            <td><a href="/info?id=<?= $projects['id']?>"><?= $projects['title'] ?></a></td>
-                            <td><span class="badge rounded-pill <?= checkDifficulty($projects['difficulty'])?>">
+                            <td><a clas="" href="/info?id=<?= $projects['id']?>"><?= $projects['title'] ?></a></td>
+                            <td><span class="badge rounded-pill text-dark fw-medium <?= checkDifficulty($projects['difficulty'])?>">
                                 <strong><?= $projects['difficulty'] ?></strong>
                                 </span>
                             </td>
