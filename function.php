@@ -14,8 +14,8 @@ function checkDifficulty($value){
     $difficulty = [
         'Beginner' => 'text-bg-success',
         'Advanced Beginner' => 'text-bg-primary',
-        'Advanced' => 'text-bg-secondary',
-        'Intermediate' => 'text-bg-warning',
+        'Advanced' => 'advance',
+        'Intermediate' => 'text-bg-warning text-white',
         'Expert' => 'text-bg-danger'
     ];
 
