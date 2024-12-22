@@ -9,7 +9,7 @@ require 'partials/nav.php';
 <div class="container">
     <div class="row">
         <div class="table-responsive mt-5">
-            <table id="projects" class="table table-striped" style="width:100%">
+            <table id="projects" class="table table-hover" style="width:100%">
                     <thead class="table-dark">
                         <tr>
                             <th class="visually-hidden">Id</th>
@@ -23,7 +23,7 @@ require 'partials/nav.php';
                             <tr> 
                             <td class="visually-hidden"><?= $projects['id'] ?></td>
                             <td><a clas="" href="/info?id=<?= $projects['id']?>"><?= $projects['title'] ?></a></td>
-                            <td><span class="badge rounded-pill text-dark fw-medium <?= checkDifficulty($projects['difficulty'])?>">
+                            <td><span class="badge rounded-pill text-white fw-medium <?= checkDifficulty($projects['difficulty'])?>">
                                 <strong><?= $projects['difficulty'] ?></strong>
                                 </span>
                             </td>
