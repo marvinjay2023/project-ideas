@@ -24,3 +24,9 @@ function checkDifficulty($value){
     }
 
 }
+
+function findOrfail($value, $project_id){
+
+    return $value['id'] === $project_id; 
+
+}

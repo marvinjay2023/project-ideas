@@ -1,16 +1,21 @@
 <?php 
 
-$project_id = $_GET['id'];
+$project_id = (int) $_GET['id'];
 
 $data = json_decode(file_get_contents("project.json"), true);
 
-foreach ($data as $project) {
-    if ($project['id'] == $project_id) {
-        $result = $project;
-    }
+//calling back findOrFail Function
+$result = array_filter($data, fn($value) => $value['id'] === $project_id);
+
+if(!$result){
+    abort();
 }
 
 dd($result);
+
+
+
+require 'view/info.view.php';
 
 
 
