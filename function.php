@@ -6,7 +6,7 @@ function dd($value){
     var_dump($value);
     echo '</pre>';
     
-    die;
+    //die;
 }
 
 //identify difficulty or the project
@@ -25,8 +25,21 @@ function checkDifficulty($value){
 
 }
 
-function findOrfail($value, $project_id){
+// function findOrfail($value, $project_id){
 
-    return $value['id'] === $project_id; 
+//     return $value['id'] === $project_id; 
 
+// }
+
+function findOrfail($data, $project_id, $result = []){
+    foreach($data as $projects){
+        if($projects['id'] === $project_id){
+            $result = $projects;
+        }
+    }
+
+    if(empty($result)){
+        abort();
+    }
 }
+
