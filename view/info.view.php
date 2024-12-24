@@ -6,7 +6,7 @@ require 'partials/nav.php';
 ?>
 <main>
 <div class="container mt-5">
-    <div class="row bg-light"> 
+    <div class="row bg-light p-5"> 
         <h2 class="fw-bold"><?=  $project['title'] ?>
             <span class="fs-6 badge rounded-pill text-white fw-medium <?= checkDifficulty($project['difficulty'])?>">
                     <strong><?= $project['difficulty'] ?></strong>
