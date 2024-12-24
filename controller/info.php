@@ -5,9 +5,7 @@ $project_id = (int) $_GET['id'];
 
 $data = json_decode(file_get_contents("project.json"), true);
 
-findOrfail($data, $project_id);
-
-
+$project = findOrfail($data, $project_id);
 
 require 'view/info.view.php';
 

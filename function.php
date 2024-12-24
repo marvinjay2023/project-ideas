@@ -6,7 +6,7 @@ function dd($value){
     var_dump($value);
     echo '</pre>';
     
-    //die;
+    die;
 }
 
 //identify difficulty or the project
@@ -41,5 +41,7 @@ function findOrfail($data, $project_id, $result = []){
     if(empty($result)){
         abort();
     }
+
+    return $result;
 }
 
