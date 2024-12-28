@@ -1,3 +1,5 @@
+<style>
+  
 :root {
   --dt-row-selected: 13, 110, 253;
   --dt-row-selected-text: 255, 255, 255;
@@ -445,3 +447,5 @@ div.table-responsive
   > div[class^="col-"]:last-child {
   padding-right: 0;
 }
+
+</style>

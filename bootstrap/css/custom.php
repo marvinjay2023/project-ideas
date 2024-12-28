@@ -1,3 +1,5 @@
+<style>
+
 :root{
     --beginner: rgb(1, 92, 1);
     --advance-beginner: rgb(1, 48, 92);
@@ -13,7 +15,7 @@ a{
 }
 
 body{
-    background-image: url(../asset/bg.jpg);
+    background-image: url(/bootstrap/asset/bg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -55,3 +57,4 @@ ul li a:hover{
     background-color: #00b673;
 }
 
+</style>
