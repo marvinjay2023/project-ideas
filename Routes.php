@@ -3,6 +3,7 @@
 $routes = [
     '/' => 'controller/index.php',
     '/info' => 'controller/info.php',
+    '/about' => 'controller/info.php',
 ];
 
 $route = parse_url($_SERVER['REQUEST_URI'])['path'];
