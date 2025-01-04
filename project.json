@@ -598,6 +598,246 @@
       "User profiles and access control for device management"
     ],
     "difficulty": "Advanced"
-  }
+  },
+  {
+    "id": 51,
+    "title": "Flashcard App with Spaced Repetition",
+    "description": "Create a flashcard app where users can add cards and use spaced repetition to improve memory retention.",
+    "features": [
+      "Add and organize flashcards by category",
+      "Spaced repetition algorithm for study sessions",
+      "Track learning progress and review history",
+      "Notifications for daily review reminders"
+    ],
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 52,
+    "title": "Blogging Platform with Social Sharing",
+    "description": "A blogging platform where users can write articles, comment on posts, and share on social media.",
+    "features": [
+      "Article creation, editing, and deletion",
+      "Commenting and liking on posts",
+      "User profiles with follower counts",
+      "Social media sharing for articles"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 53,
+    "title": "Meme Generator with Templates",
+    "description": "Create a meme generator where users can add captions to images and share them.",
+    "features": [
+      "Template selection and custom captioning",
+      "Image resizing and formatting",
+      "Save and share memes with links",
+      "Search and filter by popular meme templates"
+    ],
+    "difficulty": "Advanced Beginner"
+  },
+  {
+    "id": 54,
+    "title": "Multiplayer Quiz Game",
+    "description": "Develop a real-time multiplayer quiz game where users can compete in trivia questions.",
+    "features": [
+      "Real-time question display and scoring",
+      "User lobby and chat during games",
+      "Timed questions and live leaderboards",
+      "Categories and difficulty levels for quizzes"
+    ],
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 55,
+    "title": "Virtual Reality Travel Experience",
+    "description": "Create a VR travel app that simulates famous travel destinations with 360° views.",
+    "features": [
+      "360° views of famous landmarks",
+      "Information overlay for points of interest",
+      "Audio narration for immersive experiences",
+      "Favorites list to bookmark visited places"
+    ],
+    "difficulty": "Expert"
+  },
+  {
+    "id": 56,
+    "title": "Personal Finance Advisor with AI Analysis",
+    "description": "A financial advisor app that provides spending insights and savings recommendations.",
+    "features": [
+      "Track income, expenses, and savings",
+      "AI-powered insights based on spending habits",
+      "Monthly budget recommendations",
+      "Progress tracking with graphs"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 57,
+    "title": "Virtual Journal with Mood Tracking",
+    "description": "A journal app that allows users to log entries with mood tracking.",
+    "features": [
+      "Daily journal entry with mood indicators",
+      "Mood trend analysis over time",
+      "Secure storage and private access",
+      "Searchable journal history"
+    ],
+    "difficulty": "Advanced Beginner"
+  },
+  {
+    "id": 58,
+    "title": "E-commerce Store with Augmented Reality (AR)",
+    "description": "Build an e-commerce store with AR functionality where users can preview products in their space.",
+    "features": [
+      "Product catalog with AR previews",
+      "Cart and checkout with Stripe integration",
+      "Product recommendations and reviews",
+      "User profiles with order history"
+    ],
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 59,
+    "title": "AI Chatbot with Contextual Understanding",
+    "description": "A chatbot that provides responses based on context, useful for customer service.",
+    "features": [
+      "Context-aware conversation flow",
+      "Customizable responses and triggers",
+      "User feedback for response improvement",
+      "Analytics for chatbot interactions"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 60,
+    "title": "Decentralized Voting System on Blockchain",
+    "description": "A secure voting platform on blockchain for private and tamper-proof elections.",
+    "features": [
+      "Voter registration and verification",
+      "Tamper-proof voting and result transparency",
+      "Election history and audit trails",
+      "Wallet-based voting system"
+    ],
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 61,
+    "title": "Daily Affirmations App",
+    "description": "Build a daily affirmations app that delivers motivational quotes to users.",
+    "features": [
+      "Daily affirmation notifications",
+      "Save favorite affirmations",
+      "Dark and light theme toggle",
+      "Customizable notification timing"
+    ],
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 62,
+    "title": "Advanced Beginner",
+    "description": "A note-taking app with Markdown support and text formatting options.",
+    "features": [
+      "Write and format notes in Markdown",
+      "Organize notes with tags and folders",
+      "Autosave and version history for notes",
+      "Export notes to PDF"
+    ],
+    "difficulty": "Advanced Beginner"
+  },
+  {
+    "id": 63,
+    "title": "Real Estate Listing Platform",
+    "description": "A real estate listing platform with filtering, map integration, and user favorites.",
+    "features": [
+      "Search and filter property listings",
+      "Map integration with location markers",
+      "User profiles with saved listings",
+      "Image galleries and property details"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 64,
+    "title": "Dynamic Data Dashboard with GraphQL",
+    "description": "A dynamic data dashboard that allows users to fetch, filter, and visualize data from multiple APIs using GraphQL.",
+    "features": [
+      "GraphQL-based data fetching and filtering",
+      "Customizable widgets for data visualization",
+      "Data export options (CSV, PDF)",
+      "User authentication for saving dashboards"
+    ],
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 65,
+    "title": "Fitness Challenge App",
+    "description": "An app for users to join fitness challenges, log progress, and earn points.",
+    "features": [
+      "Join and track progress in fitness challenges",
+      "Earn points for completed activities",
+      "Leaderboard for top participants",
+      "Personalized goals and rewards"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 66,
+    "title": "Decentralized File Storage on IPFS",
+    "description": "A file storage platform that leverages IPFS for secure and decentralized file storage.",
+    "features": [
+      "Upload files to IPFS with content hashing",
+      "User authentication via MetaMask",
+      "Encrypted file storage and retrieval",
+      "Activity log for file actions"
+    ],
+    "difficulty": "Expert"
+  },
+  {
+    "id": 67,
+    "title": "Personal Library Catalog",
+    "description": "A personal library catalog where users can log, organize, and review books they own.",
+    "features": [
+      "Add and organize books with custom tags",
+      "Search by title, author, or genre",
+      "Add ratings and reviews for each book",
+      "Book tracking for read/unread status"
+    ],
+    "difficulty": "Advanced Beginner"
+  },
+  {
+    "id": 68,
+    "title": "Customer Relationship Management (CRM) Tool",
+    "description": "Build a CRM tool for small businesses to manage customers, track leads, and analyze sales performance.",
+    "features": [
+      "Customer and lead management with notes",
+      "Sales pipeline tracking and status updates",
+      "Analytics for sales and customer interactions",
+      "Multi-user access with role-based permissions"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 69,
+    "title": "Stock Trading Simulator with AI Predictions",
+    "description": "Develop a stock trading simulator with AI predictions based on market trends, allowing users to practice trading.",
+    "features": [
+      "Buy and sell stocks with virtual funds",
+      "AI-powered market trend predictions",
+      "Portfolio tracking with performance metrics",
+      "Leaderboard and ranking for top traders"
+    ],
+    "difficulty": "Expert"
+  },
+  {
+    "id": 70,
+    "title": "Recipe Finder with Favorites",
+    "description": "A simple recipe finder app where users can search for recipes and save favorites.",
+    "features": [
+      "Search recipes by keyword",
+      "View detailed recipe instructions and ingredients",
+      "Save recipes to a favorites list",
+      "Simple UI for browsing and managing favorites"
+    ],
+    "difficulty": "Beginner"
+  },
 ]
 
