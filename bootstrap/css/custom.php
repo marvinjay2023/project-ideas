@@ -8,8 +8,13 @@
     --expert: rgb(160, 3, 16);
 }
 
+.undeline{
+    color: black;
+    text-decoration: underline solid black;
+}
 
-a{
+
+td a{
     color: black;
     text-decoration: underline solid black;
 }
