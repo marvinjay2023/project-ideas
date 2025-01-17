@@ -838,6 +838,126 @@
       "Simple UI for browsing and managing favorites"
     ],
     "difficulty": "Beginner"
+  },
+  {
+    "id": 71,
+    "title": "Budget Planner with Monthly Analysis",
+    "description": "A budgeting app that helps users track expenses and visualize monthly spending habits.",
+    "features": [
+      "Expense logging with categories",
+      "Monthly spending analysis with charts",
+      "Budget tracking and alerts for overspending",
+      "Detailed breakdowns by category"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 72,
+    "title": "Minimalist Habit Tracker",
+    "description": "A simple habit tracker where users can set daily habits and track their consistency over time.",
+    "features": [
+      "Add and customize daily habits",
+      "Visualize streaks and consistency",
+      "Basic analytics for habit completion",
+      "Reminders for daily check-ins"
+    ],
+    "difficulty": "Advanced Beginner"
+  },
+  {
+    "id": 73,
+    "title": "Real-Time Sports Scoreboard",
+    "description": "A real-time sports scoreboard for live scores, stats, and commentary.",
+    "features": [
+      "Real-time score updates and statistics",
+      "Live commentary and highlights",
+      "Notifications for key events (e.g., goals, touchdowns)",
+      "Game history and performance charts"
+    ],
+    "difficulty": "Expert"
+  },
+  {
+    "id": 74,
+    "title": "Personal Finance and Investment Tracker",
+    "description": "An app to track personal finances, investments, and stock performance in one place.",
+    "features": [
+      "Track expenses and investments by category",
+      "Monitor stock performance and portfolio growth",
+      "Monthly finance analysis and goals",
+      "Customizable dashboard with key metrics"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 75,
+    "title": "Task Manager with Categories",
+    "description": "A simple task manager where users can organize tasks by categories and priority.",
+    "features": [
+      "Add, edit, and delete tasks",
+      "Organize tasks into customizable categories",
+      "Priority-based sorting and filtering",
+      "Reminders and notifications for deadlines"
+    ],
+    "difficulty": "Advanced Beginner"
+  },
+  {
+    "id": 76,
+    "title": "Blockchain-based Document Authentication System",
+    "description": "A document authentication system on the blockchain for tamper-proof certification.",
+    "features": [
+      "Upload and verify documents with blockchain hashing",
+      "User wallet integration for signing and verification",
+      "Tamper-proof history for document validation",
+      "Detailed transaction logs for each document"
+    ],
+    "difficulty": "Expert"
+  },
+  {
+    "id": 77,
+    "title": "Mood Tracker with Weekly Insights",
+    "description": "A mood-tracking app where users can log daily moods and receive weekly insights.",
+    "features": [
+      "Daily mood logging with icons or color-coding",
+      "Weekly and monthly mood analytics",
+      "Journal entries for mood context",
+      "Searchable history and notes"
+    ],
+    "difficulty": "Advanced Beginner"
+  },
+  {
+    "id": 78,
+    "title": "Travel Planning and Expense Tracker",
+    "description": "An app where users can plan trips, set budgets, and track expenses along the way.",
+    "features": [
+      "Trip itinerary planning with locations",
+      "Expense tracking per trip",
+      "Map integration for route planning",
+      "Detailed travel reports with budget analysis"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 79,
+    "title": "Social Media Dashboard with Analytics",
+    "description": "A social media dashboard to analyze engagement across multiple platforms.",
+    "features": [
+      "Track followers, likes, and engagement rates",
+      "Comparative analysis across platforms",
+      "Weekly and monthly trend reports",
+      "Notifications for significant milestones"
+    ],
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 80,
+    "title": "Voice-Activated Personal Assistant",
+    "description": "Build a personal assistant app that can respond to voice commands and perform simple tasks.",
+    "features": [
+      "Recognize and execute voice commands",
+      "Perform tasks like reminders, weather, and search",
+      "Store frequently used commands",
+      "Feedback and error-handling for failed commands"
+    ],
+    "difficulty": "Intermediate"
   }
 ]
 
