@@ -958,6 +958,246 @@
       "Feedback and error-handling for failed commands"
     ],
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 81,
+    "title": "Minimalist Budget Tracker",
+    "description": "A minimalist budget tracker to help users manage daily expenses.",
+    "features": [
+      "Track daily and monthly expenses",
+      "Simple category tagging for each expense",
+      "Graphical representation of spending habits",
+      "Budget notifications for overspending"
+    ],
+    "difficulty": "Advanced Beginner"
+  },
+  {
+    "id": 82,
+    "title": "Automated Job Application Tracker",
+    "description": "A job application tracker that automates application submission and follows up with reminders.",
+    "features": [
+      "Job tracking by company, position, and status",
+      "Auto-apply to job listings based on resume and criteria",
+      "Reminders for follow-up and interview preparation",
+      "Analytics for success rates and application insights"
+    ],
+    "difficulty": "Expert"
+  },
+  {
+    "id": 83,
+    "title": "Blogging Platform with Media Upload",
+    "description": "A blogging platform where users can write, edit, and upload media (images, videos) in their posts.",
+    "features": [
+      "Article creation with rich text and media support",
+      "Commenting and liking on posts",
+      "User profiles and follower counts",
+      "Media upload and organization for articles"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 84,
+    "title": "Goal Tracker with Progress Analytics",
+    "description": "A goal-tracking app where users can set personal goals and track progress visually.",
+    "features": [
+      "Set, edit, and delete goals with deadlines",
+      "Visual progress tracking for each goal",
+      "Notifications for goal milestones",
+      "Goal completion analytics and insights"
+    ],
+    "difficulty": "Advanced Beginner"
+  },
+  {
+    "id": 85,
+    "title": "NFT Marketplace with Auction Mechanism",
+    "description": "Develop an NFT marketplace where users can list, buy, and auction NFTs.",
+    "features": [
+      "NFT minting and listing for sale",
+      "Auction system for NFT bidding",
+      "Secure wallet integration for transactions",
+      "Transaction history and NFT analytics"
+    ],
+    "difficulty": "Expert"
+  },
+  {
+    "id": 86,
+    "title": "Study Planner with Calendar Integration",
+    "description": "A study planner to help students organize assignments, tests, and study sessions with a calendar view.",
+    "features": [
+      "Add, edit, and organize study tasks",
+      "Calendar view for assignment deadlines and tests",
+      "Progress tracking for completed tasks",
+      "Notifications and reminders for due dates"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 87,
+    "title": "Simple Chat Application with Emojis",
+    "description": "A basic chat application with emoji support and customizable themes.",
+    "features": [
+      "Real-time messaging and emoji support",
+      "Customizable themes and fonts",
+      "User profiles and typing indicators",
+      "Chat history with search functionality"
+    ],
+    "difficulty": "Advanced Beginner"
+  },
+  {
+    "id": 88,
+    "title": "AI-Powered Virtual Stylist",
+    "description": "Build an AI-powered fashion stylist app where users can get outfit suggestions based on their wardrobe, occasion, and weather.",
+    "features": [
+      "Wardrobe management and outfit catalog",
+      "AI-based outfit suggestions for occasions and weather",
+      "Personalized style recommendations",
+      "Social sharing for favorite outfits"
+    ],
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 89,
+    "title": "Online Whiteboard with Collaborative Drawing",
+    "description": "A collaborative online whiteboard where users can draw, write, and brainstorm together in real-time.",
+    "features": [
+      "Real-time drawing and writing tools",
+      "Multiple user collaboration with chat",
+      "Save and share whiteboards",
+      "Zoom and pan functionality"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 90,
+    "title": "Meditation and Relaxation App",
+    "description": "A meditation app with guided sessions, ambient sounds, and breathing exercises.",
+    "features": [
+      "Meditation session timers",
+      "Background sounds (nature, white noise)",
+      "Breathing exercises with visual guidance",
+      "Track and save meditation sessions"
+    ],
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 91,
+    "title": "Smart Home Automation Control Panel",
+    "description": "A control panel to manage IoT-enabled smart home devices like lights, thermostat, and security cameras.",
+    "features": [
+      "Control smart devices remotely",
+      "Real-time device status updates",
+      "Usage analytics and energy savings insights",
+      "Voice command integration"
+    ],
+    "difficulty": "Expert"
+  },
+  {
+    "id": 92,
+    "title": "Grocery List App with Categories",
+    "description": "A grocery list app where users can create lists, categorize items, and mark items as purchased.",
+    "features": [
+      "Add, edit, and organize grocery items by category",
+      "Mark items as purchased",
+      "Save multiple lists for different occasions",
+      "Dark mode for better UI experience"
+    ],
+    "difficulty": "Advanced Beginner"
+  },
+  {
+    "id": 93,
+    "title": "Audio Book Player with Chapter Highlights",
+    "description": "An audiobook player that allows users to listen to audiobooks, bookmark chapters, and highlight sections.",
+    "features": [
+      "Play, pause, and bookmark audio chapters",
+      "Highlight sections and save notes",
+      "User profiles for tracking books",
+      "Speed control and audio quality settings"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 94,
+    "title": "Decentralized Crowdfunding Platform on Blockchain",
+    "description": "A crowdfunding platform on blockchain where users can create projects and accept cryptocurrency donations.",
+    "features": [
+      "Project creation and donation tracking",
+      "Secure wallet-based donations",
+      "Transparency with transaction logs",
+      "Project milestones with funding goals"
+    ],
+    "difficulty": "Expert"
+  },
+  {
+    "id": 95,
+    "title": "Daily Quotes Generator",
+    "description": "A simple app that displays a new motivational quote every day.",
+    "features": [
+      "Display a new daily quote",
+      "Save favorite quotes to a list",
+      "Randomize quotes for more inspiration",
+      "Simple UI with theme options"
+    ],
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 96,
+    "title": "Video Streaming Platform with Chat",
+    "description": "Build a video streaming platform with real-time chat for live events or shows.",
+    "features": [
+      "Live video streaming with WebRTC",
+      "Real-time chat alongside the video",
+      "User profiles with streaming history",
+      "Notifications for upcoming eventss"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 97,
+    "title": "Simple Recipe Book",
+    "description": "A recipe book app where users can save and categorize their favorite recipes.",
+    "features": [
+      "Add and categorize recipes",
+      "Search recipes by ingredients or title",
+      "Bookmark favorite recipes",
+      "Dark mode for readability"
+    ],
+    "difficulty": "Advanced Beginner"
+  },
+  {
+    "id": 98,
+    "title": "Decentralized Identity Verification System",
+    "description": "Build a decentralized identity verification system to provide secure digital identities on blockchain.",
+    "features": [
+      "Verify identity with smart contracts",
+      "Secure storage on IPFS",
+      "User profile with verification history",
+      "Cross-platform identity integration"
+    ],
+    "difficulty": "Expert"
+  },
+  {
+    "id": 99,
+    "title": "Music Playlist Curator with API Integration",
+    "description": "An app where users can curate playlists and fetch recommendations from a music API.",
+    "features": [
+      "Playlist creation and customization",
+      "Fetch song recommendations from Spotify",
+      "Favorite and share playlists",
+      "Filter songs by genre and mood"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 100,
+    "title": "Workout Logger with Timer",
+    "description": "A simple workout logger where users can record exercises and track workout time.",
+    "features": [
+      "Log exercises with reps and sets",
+      "Timer for tracking workout duration",
+      "Save workout sessions for progress tracking",
+      "Categorize exercises by type"
+    ],
+    "difficulty": "Advanced Beginner"
   }
 ]
 
