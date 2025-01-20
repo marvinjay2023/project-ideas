@@ -1198,6 +1198,126 @@
       "Categorize exercises by type"
     ],
     "difficulty": "Advanced Beginner"
+  },
+  {
+    "id": 101,
+    "title": "AI-Powered Resume Scanner and Job Matcher",
+    "description": "An AI-powered tool that scans resumes and matches them to job listings based on keywords and skills.",
+    "features": [
+      "Upload and scan resumes",
+      "AI-powered keyword extraction for skills",
+      "Job matching based on resume content",
+      "Feedback and suggestions for resume improvement"
+    ],
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 102,
+    "title": "Personal Recipe Generator",
+    "description": "A recipe generator that suggests recipes based on ingredients the user has on hand.",
+    "features": [
+      "Search recipes by available ingredients",
+      "Save and favorite generated recipes",
+      "User profile with dietary preferences",
+      "Share recipes with friends"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 103,
+    "title": "Daily Journal with Sentiment Analysis",
+    "description": "A journal app with a sentiment analysis tool to track emotional trends.",
+    "features": [
+      "Write and save daily journal entries",
+      "Sentiment analysis for each entry",
+      "View emotional trends over time",
+      "Private storage and secure login"
+    ],
+    "difficulty": "Advanced Beginner"
+  },
+  {
+    "id": 104,
+    "title": "Real-Time Stock Market Trading Simulator",
+    "description": "A simulator for real-time stock trading with virtual funds and leaderboards.",
+    "features": [
+      "Real-time stock price updates",
+      "Buy and sell stocks with virtual currency",
+      "Portfolio tracking with performance charts",
+      "Leaderboards and achievement badges"
+    ],
+    "difficulty": "Expert"
+  },
+  {
+    "id": 105,
+    "title": "Customizable Goal Setting App",
+    "description": "A goal-setting app where users can set, track, and share their personal goals.",
+    "features": [
+      "Set and customize personal goals",
+      "Track progress with visual charts",
+      "Reminders for goal check-ins",
+      "Share goals with friends for accountability"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 106,
+    "title": "Daily Planner with Calendar View",
+    "description": "A daily planner that allows users to schedule tasks, view upcoming events, and set reminders.",
+    "features": [
+      "Add, edit, and delete tasks",
+      "Calendar view for daily, weekly, and monthly plans",
+      "Reminders for tasks and events",
+      "Color-coded categories for tasks"
+    ],
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 107,
+    "title": "Quiz Platform with Leaderboards",
+    "description": "A quiz platform where users can create quizzes, play, and compete on leaderboards.",
+    "features": [
+      "Create and take quizzes in different categories",
+      "Timed questions and instant feedback",
+      "Track scores and earn achievements",
+      "Leaderboards for high scores"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 108,
+    "title": "Cryptocurrency Price Tracker with Alerts",
+    "description": "A cryptocurrency tracker that monitors real-time prices, and notifies users of price changes.",
+    "features": [
+      "Real-time cryptocurrency price updates",
+      "Customizable alerts for price changes",
+      "Historical data and price trends",
+      "Portfolio tracker for selected cryptocurrencies"
+    ],
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 109,
+    "title": "Simple Timer and Stopwatch",
+    "description": "A simple timer and stopwatch app for productivity tracking.",
+    "features": [
+      "Set timers for specific tasks",
+      "Start, pause, and reset functionality",
+      "Lap and split-time tracking",
+      "Dark mode for night usage"
+    ],
+    "difficulty": "Advanced Beginner"
+  },
+  {
+    "id": 110,
+    "title": "AI-Powered Grammar Checker",
+    "description": "An AI-powered grammar checker that provides suggestions for text improvements.",
+    "features": [
+      "Real-time grammar and spelling suggestions",
+      "Alternative phrasing and synonym suggestions",
+      "Error explanations and improvements",
+      "Text history and version control"
+    ],
+    "difficulty": "Expert"
   }
 ]
 
