@@ -1318,6 +1318,114 @@
       "Text history and version control"
     ],
     "difficulty": "Expert"
+  },
+  {
+    "id": 112,
+    "title": "Weather App with Geolocation",
+    "description": "A weather app that detects the user’s location and provides real-time weather data.",
+    "features": [
+      "Detect location and fetch weather data",
+      "7-day weather forecast and temperature trends",
+      "Dark mode for night viewing",
+      "Save favorite locations for quick access"
+    ],
+    "difficulty": "Advanced Beginner"
+  },
+  {
+    "id": 113,
+    "title": "Real Estate Marketplace with Map Integration",
+    "description": "A real estate marketplace where users can browse and list properties with an interactive map.",
+    "features": [
+      "List and view properties by location",
+      "Search by price range, bedrooms, and other filters",
+      "Interactive map view with property pins",
+      "Save properties and set alerts for new listings"
+    ],
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 114,
+    "title": "Blockchain-Based Document Notarization Platform",
+    "description": "A document notarization platform on the blockchain for secure and tamper-proof records.",
+    "features": [
+      "Document upload and blockchain hashing",
+      "Notarization history and verification",
+      "IPFS for decentralized storage",
+      "User wallet integration for secure access"
+    ],
+    "difficulty": "Expert"
+  },
+  {
+    "id": 115,
+    "title": "Expense Tracker with Simple Analytics",
+    "description": "An expense tracker app where users can log expenses and view monthly summaries.",
+    "features": [
+      "Log and categorize daily expenses",
+      "Monthly expense summary and charts",
+      "Set budgets and track overspending",
+      "Export expenses to CSV"
+    ],
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 116,
+    "title": "Vocabulary Builder with Flashcards",
+    "description": "A vocabulary builder app that uses flashcards and spaced repetition for learning new words.",
+    "features": [
+      "Create, edit, and organize flashcards by category",
+      "Spaced repetition learning technique",
+      "Track progress and mastery levels",
+      "Notifications for daily review reminders"
+    ],
+    "difficulty": "Advanced Beginner"
+  },
+  {
+    "id": 117,
+    "title": "Decentralized Social Media Platform",
+    "description": "A decentralized social media platform where users can post, like, and comment, with data stored on the blockchain.",
+    "features": [
+      "Create posts and interact with other users",
+      "Decentralized storage for user data on IPFS",
+      "Likes and comments with transparent logs",
+      "Profile management with blockchain-based ID"
+    ],
+    "difficulty": "Expert"
+  },
+  {
+    "id": 118,
+    "title": "Collaborative Task Management Tool",
+    "description": "A task management tool with real-time collaboration, ideal for teams and projects.",
+    "features": [
+      "Assign tasks to team members",
+      "Real-time collaboration with updates",
+      "Task statuses and priority levels",
+      "Team chat for discussions"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 119,
+    "title": "Habit Streak Tracker",
+    "description": "A habit tracking app that motivates users by visualizing streaks and consistency.",
+    "features": [
+      "Track habits daily with streak visuals",
+      "Set reminders and notifications for habits",
+      "Weekly and monthly habit analytics",
+      "Customizable colors and themes"
+    ],
+    "difficulty": "Advanced Beginner"
+  },
+  {
+    "id": 120,
+    "title": "AI-Based Health Analysis Dashboard",
+    "description": "A health dashboard that provides insights into health data collected from wearable devices, powered by AI.",
+    "features": [
+      "Real-time health data sync from devices",
+      "AI analysis for health trend insights",
+      "Weekly and monthly health reports",
+      "Health alerts and goal setting"
+    ],
+    "difficulty": "Expert"
   }
 ]
 
