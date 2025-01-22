@@ -1426,6 +1426,126 @@
       "Health alerts and goal setting"
     ],
     "difficulty": "Expert"
-  }
+  },
+  {
+    "id": 121,
+    "title": "Real-Time Chat Support Widget",
+    "description": "A live chat widget for websites, enabling real-time customer support.",
+    "features": [
+      "Real-time chat support with typing indicators",
+      "Support ticket creation and management",
+      "Canned responses for quick replies",
+      "Analytics for support performance"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 122,
+    "title": "Workout Routine Planner",
+    "description": "A workout planner where users can create and save exercise routines.",
+    "features": [
+      "Add and organize exercises into routines",
+      "Set goals and track progress",
+      "Log completed workouts",
+      "Timer for workout sets"
+    ],
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 123,
+    "title": "Peer-to-Peer Cryptocurrency Exchange",
+    "description": "A decentralized cryptocurrency exchange for peer-to-peer trading with smart contracts.",
+    "features": [
+      "Direct peer-to-peer crypto trading",
+      "Wallet integration with MetaMask",
+      "Transaction history and order book",
+      "Real-time pricing and trading analytics"
+    ],
+    "difficulty": "Expert"
+  },
+  {
+    "id": 124,
+    "title": "Event Management and Ticketing System",
+    "description": "An event management platform with ticketing and registration features.",
+    "features": [
+      "Event creation and ticketing",
+      "User registration and RSVP tracking",
+      "QR code generation for tickets",
+      "Payments via Stripe integration"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 125,
+    "title": "AI-Driven Sales Forecasting Platform",
+    "description": "A sales forecasting app powered by AI to predict revenue and inventory needs.",
+    "features": [
+      "Sales data analysis and forecasting",
+      "Visual sales trends and seasonal adjustments",
+      "Inventory planning based on forecasts",
+      "Customizable forecast intervals"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 126,
+    "title": "Countdown Timer App",
+    "description": "A countdown timer where users can set a timer for specific events or tasks.",
+    "features": [
+      "Set, pause, and reset countdowns",
+      "Save frequently used timers",
+      "Notifications when timer ends",
+      "Option for background themes"
+    ],
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 127,
+    "title": "Personal Budgeting Tool with Multi-Currency Support",
+    "description": "A budgeting app where users can set financial goals and track expenses in multiple currencies.",
+    "features": [
+      "Add expenses and categorize them",
+      "Set budgets with multi-currency support",
+      "Visual analytics for spending",
+      "Currency conversion based on current rates"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 128,
+    "title": "AI-Powered Language Translator",
+    "description": "A translation app with speech-to-text and text-to-speech support powered by AI.",
+    "features": [
+      "Text and speech translation",
+      "Language detection and auto-translation",
+      "Text-to-speech for spoken output",
+      "Phrasebook for saved translations"
+    ],
+    "difficulty": "Expert"
+  },
+  {
+    "id": 129,
+    "title": "Habit Calendar",
+    "description": "A calendar app to track daily habits and visualize consistency.",
+    "features": [
+      "Daily check-in for each habit",
+      "Visual calendar with completion streaks",
+      "Monthly habit tracking and reports",
+      "Customizable habit categories and icons"
+    ],
+    "difficulty": "Advanced Beginner"
+  },
+  {
+    "id": 130,
+    "title": "Collaborative Notes with Markdown Support",
+    "description": "A note-taking app for collaborative markdown editing.",
+    "features": [
+      "Real-time collaborative editing",
+      "Markdown support for rich formatting",
+      "Save and organize notes by category",
+      "Sharing and commenting options"
+    ],
+    "difficulty": "Intermediate"
+  },
 ]
 
