@@ -1546,6 +1546,66 @@
       "Sharing and commenting options"
     ],
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 131,
+    "title": "Decentralized Voting App with Privacy Protocols",
+    "description": "A decentralized voting platform that ensures privacy and transparency.",
+    "features": [
+      "Secure vote casting and tallying",
+      "Privacy protection with zero-knowledge proofs",
+      "Transparent, tamper-proof audit trails",
+      "Voter registration and verification"
+    ],
+    "difficulty": "Expert"
+  },
+  {
+    "id": 132,
+    "title": "Digital Flashcards with Spaced Repetition",
+    "description": "An app for creating digital flashcards and learning using spaced repetition.",
+    "features": [
+      "Create and organize flashcards",
+      "Spaced repetition algorithm for improved learning",
+      "Progress tracking with mastery levels",
+      "Notifications for review reminders"
+    ],
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 133,
+    "title": "Customizable CRM for Small Businesses",
+    "description": "A customer relationship management app tailored for small businesses.",
+    "features": [
+      "Customer profile management",
+      "Sales tracking and analytics",
+      "Email automation for follow-ups",
+      "Tiered pricing with Stripe subscription"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 134,
+    "title": "Automated Email Marketing Platform with Analytics",
+    "description": "An email marketing platform with automation workflows and analytics for campaign optimization.",
+    "features": [
+      "Email templates and customization",
+      "Automation workflows for campaigns",
+      "Detailed analytics for open rates and clicks",
+      "Customer segmentation for targeted campaigns"
+    ],
+    "difficulty": "Expert"
+  },
+  {
+    "id": 135,
+    "title": "Pomodoro Timer with Task Integration",
+    "description": "A Pomodoro timer integrated with task management for productivity tracking.",
+    "features": [
+      "Task organization with Pomodoro timers",
+      "Timers for focused work and break intervals",
+      "Track completed tasks and time spent",
+      "Simple, minimalist UI with themes"
+    ],
+    "difficulty": "Advanced Beginner"
   }
 ]
 
