@@ -1606,6 +1606,186 @@
       "Simple, minimalist UI with themes"
     ],
     "difficulty": "Advanced Beginner"
+  },
+  {
+    "id": 136,
+    "title": "Personal Investment Dashboard with Market Insights",
+    "description": "A dashboard for tracking personal investments with market insights and news.",
+    "features": [
+      "Track stocks, crypto, and mutual funds",
+      "Portfolio performance tracking",
+      "Market news and trend analysis",
+      "Watchlist with price alerts"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 137,
+    "title": "AI-Driven Content Creation Platform",
+    "description": "A content creation platform that generates blog ideas, outlines, and assists with SEO optimization.",
+    "features": [
+      "AI-powered blog title and outline suggestions",
+      "SEO recommendations for improved visibility",
+      "Content analysis and readability scoring",
+      "Save and edit content draft"
+    ],
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 138,
+    "title": "Personal Book Library",
+    "description": "A virtual library where users can organize, categorize, and review their book collection.",
+    "features": [
+      "Add and organize books by genre and status",
+      "Rate and review books",
+      "Track reading history and completion status",
+      "Simple UI with search and filter options"
+    ],
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 139,
+    "title": "Real-Time Collaboration Platform for Teams",
+    "description": "A platform that facilitates real-time collaboration on projects with chat, file sharing, and task tracking.",
+    "features": [
+      "Task assignment and progress tracking",
+      "Real-time chat and file sharing",
+      "Kanban board for project management",
+      "Team notifications and alerts"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 140,
+    "title": "NFT-Based Art Gallery Platform",
+    "description": "A platform for showcasing digital art as NFTs, allowing artists to upload, mint, and sell their art.",
+    "features": [
+      "NFT minting and listing for sale",
+      "Artist and buyer profiles with portfolios",
+      "Secure transactions and wallet integration",
+      "Favorites and wishlist for buyers"
+    ],
+    "difficulty": "Expert"
+  },
+  {
+    "id": 141,
+    "title": "AI Personal Finance Assistant",
+    "description": "A personal finance assistant that provides budget recommendations, monitors spending, and gives insights based on financial habits.",
+    "features": [
+      "Budget tracking and expense categorization",
+      "AI-driven insights for spending patterns",
+      "Monthly financial summaries and forecasts",
+      "Notifications for budget limits and savings tips"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 142,
+    "title": "IoT Smart Garden Management System",
+    "description": "A smart garden system that monitors soil moisture, temperature, and automatically waters plants.",
+    "features": [
+      "Real-time monitoring of soil and environmental data",
+      "Automated watering and alert system",
+      "Data history and growth analytics",
+      "Remote access to control settings"
+    ],
+    "difficulty": "Expert"
+  },
+  {
+    "id": 143,
+    "title": "Personal Diary with Mood Tracker",
+    "description": "A diary app where users can log daily entries and track their mood over time.",
+    "features": [
+      "Daily entry logging with mood tracking",
+      "Mood calendar for visual trends",
+      "Search entries by date or keywords",
+      "Dark mode and custom themes"
+    ],
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 144,
+    "title": "Real-Time Job Board with Notifications",
+    "description": "A job board where users can post and search for job listings with real-time updates.",
+    "features": [
+      "Real-time job posting and searching",
+      "Notifications for new job alerts",
+      "Filter jobs by role, location, and experience",
+      "Save jobs for later review"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 145,
+    "title": "Personal Nutrition Tracker",
+    "description": "A nutrition tracker that helps users log meals and track nutrient intake.",
+    "features": [
+      "Add meals and view nutritional data",
+      "Track daily intake for calories, protein, etc.",
+      "Set dietary goals and track progress",
+      "Personalized suggestions based on dietary preferences"
+    ],
+    "difficulty": "Advanced Beginner"
+  },
+  {
+    "id": 146,
+    "title": "Social Media Content Scheduler",
+    "description": "A content scheduling tool for social media, allowing users to plan posts in advance.",
+    "features": [
+      "Schedule posts across multiple platforms",
+      "Calendar view of upcoming posts",
+      "Analytics for engagement tracking",
+      "Automated posting based on set times"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 147,
+    "title": "Decentralized Marketplace for Digital Goods",
+    "description": "A blockchain-based marketplace where users can buy and sell digital assets (e.g., software, art).",
+    "features": [
+      "Mint and list digital assets as NFTs",
+      "Decentralized wallet-based transactions",
+      "Secure transaction history",
+      "User ratings and asset analytics"
+    ],
+    "difficulty": "Expert"
+  },
+  {
+    "id": 148,
+    "title": "Shopping List with Categorized Items",
+    "description": "A shopping list app where users can categorize items and manage lists.",
+    "features": [
+      "Add and categorize items (e.g., groceries, electronics)",
+      "Sort and prioritize items by category",
+      "Mark items as purchased",
+      "Save frequently used lists for quick access"
+    ],
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 149,
+    "title": "Inventory Management System for Small Businesses",
+    "description": "An inventory management tool designed for small businesses to track stock and manage products.",
+    "features": [
+      "Add and organize products with details",
+      "Real-time inventory updates",
+      "Sales tracking and low-stock alerts",
+      "Reports for inventory valuation"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 150,
+    "title": "AI-Powered Recruitment Platform",
+    "description": "A recruitment platform that matches candidates to jobs based on skills and past experience.",
+    "features": [
+      "AI-powered job matching based on resume analysis",
+      "Candidate tracking and interview scheduling",
+      "Notifications for new job matches",
+      "Company profiles and analyticsn"
+    ],
+    "difficulty": "Expert"
   }
 ]
 
