@@ -1906,6 +1906,126 @@
       "Track study time and completed tasks"
     ],
     "difficulty": "Beginner"
+  },
+  {
+    "id": 161,
+    "title": "Real-Time Traffic Monitoring Dashboard",
+    "description": "A traffic monitoring dashboard with live data on congestion and travel times.",
+    "features": [
+      "Real-time traffic visualization on a map",
+      "Alerts for accidents and road closures",
+      "Live traffic analysis with charts",
+      "Travel time estimation and routing suggestions"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 162,
+    "title": "AI-Powered Workout Planner",
+    "description": "A workout planner that suggests exercises based on goals, fitness level, and past performance.",
+    "features": [
+      "Personalized exercise recommendations",
+      "Progress tracking and workout analytics",
+      "Set goals and receive tailored plans",
+      "Video guides and exercise instructions"
+    ],
+    "difficulty": "Expert"
+  },
+  {
+    "id": 163,
+    "title": "Simple Job Application Tracker",
+    "description": "A job application tracker to help users keep track of applications and interviews.",
+    "features": [
+      "Track application stages (applied, interviewed, offered)",
+      "Add notes for each application",
+      "Organize by job title and company",
+      "Reminders for follow-ups"
+    ],
+    "difficulty": "Advanced Beginner"
+  },
+  {
+    "id": 164,
+    "title": "Community Forum with User Moderation",
+    "description": "A community forum where users can post, comment, and vote, with built-in user moderation.",
+    "features": [
+      "Create posts and comments with threading",
+      "Upvote/downvote for popular content",
+      "User moderation with reporting options",
+      "Profile pages and post history"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 165,
+    "title": "AI-Powered Document Summarizer",
+    "description": "A tool that summarizes lengthy documents using AI-based natural language processing.",
+    "features": [
+      "Upload and analyze documents for key points",
+      "Generate concise summaries",
+      "Sentiment analysis for tone",
+      "Save summaries and export to PDF"
+    ],
+    "difficulty": "Expert"
+  },
+  {
+    "id": 166,
+    "title": "Contact Manager with Import/Export",
+    "description": "A contact manager where users can add, organize, and search contacts.",
+    "features": [
+      "Add and edit contact details (name, phone, email)",
+      "Organize contacts by group",
+      "Search and filter contacts",
+      "Import/export to CSV"
+    ],
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 167,
+    "title": "AI-Based Stock Trading Assistant",
+    "description": "An AI-powered stock trading assistant that gives real-time trading signals based on market trends.",
+    "features": [
+      "Real-time stock data and trends",
+      "Buy/sell signals based on AI predictions",
+      "Historical price analysis",
+      "Portfolio tracking and management"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 168,
+    "title": "Supply Chain Management System with Blockchain",
+    "description": "A blockchain-based supply chain system to track products from origin to delivery.",
+    "features": [
+      "Track products and transactions on the blockchain",
+      "View product history with timestamps",
+      "Decentralized data storage on IPFS",
+      "Authentication with MetaMask for security"
+    ],
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 169,
+    "title": "Workout Logger with Progress Analytics",
+    "description": "A workout logging app to help users track exercises and measure progress over time.",
+    "features": [
+      "Log exercises and sets/reps",
+      "Visualize progress with charts",
+      "Track goals and milestones",
+      "Weekly and monthly summaries"
+    ],
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 170,
+    "title": "Personal Finance Dashboard with Forecasting",
+    "description": "A finance dashboard with budgeting, expense tracking, and future expense forecasting.",
+    "features": [
+      "Add income and expenses by category",
+      "Monthly forecasting and spending trends",
+      "Set financial goals and track progress",
+      "Visualize spending breakdowns with charts"
+    ],
+    "difficulty": "Intermediate"
   }
 ]
 
