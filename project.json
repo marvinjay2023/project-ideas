@@ -1786,6 +1786,126 @@
       "Company profiles and analyticsn"
     ],
     "difficulty": "Expert"
+  },
+  {
+    "id": 151,
+    "title": "Virtual Mood Journal with Daily Prompts",
+    "description": "A mood journal that provides daily prompts for users to reflect on their day.",
+    "features": [
+      "Daily mood logging and reflection",
+      "Customizable prompts for journaling",
+      "Search and filter past entries",
+      "Data visualization of mood trends"
+    ],
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 152,
+    "title": "Event Ticketing System with QR Code Verification",
+    "description": "A ticketing system for events with QR code generation and scanning.",
+    "features": [
+      "Event creation and ticket sales",
+      "QR code generation for tickets",
+      "Scanning for check-in verification",
+      "Event attendance tracking and reporting"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 153,
+    "title": "AI-Driven Social Media Sentiment Analysis",
+    "description": "An analysis tool that tracks and visualizes the sentiment of social media posts.",
+    "features": [
+      "Real-time sentiment analysis on social media posts",
+      "Data visualization for sentiment trends",
+      "Topic analysis to determine popular subjects",
+      "Notifications for trending topics"
+    ],
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 154,
+    "title": "Minimalist Habit Tracker with Streaks",
+    "description": "A simple habit-tracking app that motivates users by tracking habit streaks.",
+    "features": [
+      "Track daily habits with streak visuals",
+      "Set goals and milestones",
+      "Visualize streaks and completion stats",
+      "Notification reminders for consistency"
+    ],
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 155,
+    "title": "Collaborative Shopping List for Families",
+    "description": "A shared shopping list where family members can add, edit, and view items in real time.",
+    "features": [
+      "Real-time list sharing with updates",
+      "Categories for different types of items",
+      "Notifications for item changes",
+      "Ability to mark items as bought"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 156,
+    "title": "Real-Time Cryptocurrency Portfolio with AI Predictions",
+    "description": "A cryptocurrency portfolio with real-time price updates and AI-driven predictions.",
+    "features": [
+      "Track portfolio with real-time prices",
+      "AI-based predictions for market trends",
+      "Historical data and trend analysis",
+      "Notifications for significant market changes"
+    ],
+    "difficulty": "Expert"
+  },
+  {
+    "id": 157,
+    "title": "Personal Recipe Manager",
+    "description": "A recipe management app where users can save, categorize, and share recipes.",
+    "features": [
+      "Save recipes with ingredients and instructions",
+      "Categorize recipes by cuisine and meal type",
+      "Share recipes with friends",
+      "Mark recipes as favorite for quick access"
+    ],
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 158,
+    "title": "Customizable Budget Planner",
+    "description": "A budget planner that allows users to create custom categories and track spending.",
+    "features": [
+      "Add income and expenses by category",
+      "Customizable categories with budgets",
+      "Monthly spending analysis with charts",
+      "Export data to CSV or PDF"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 159,
+    "title": "Decentralized Lending and Borrowing Platform",
+    "description": "A decentralized platform for peer-to-peer lending with smart contract security.",
+    "features": [
+      "Secure lending and borrowing with smart contracts",
+      "User profiles and credit rating system",
+      "Transaction history and analytics",
+      "Wallet integration for seamless payments"
+    ],
+    "difficulty": "Expert"
+  },
+  {
+    "id": 160,
+    "title": "Study Planner with Daily Reminders",
+    "description": "A study planner that allows students to organize study tasks and receive reminders.",
+    "features": [
+      "Add tasks with deadlines",
+      "Daily reminders for study tasks",
+      "Organize tasks by subject or project",
+      "Track study time and completed tasks"
+    ],
+    "difficulty": "Beginner"
   }
 ]
 
