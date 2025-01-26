@@ -2026,6 +2026,126 @@
       "Visualize spending breakdowns with charts"
     ],
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 171,
+    "title": "Decentralized Voting Platform with Audit Logs",
+    "description": "A secure, decentralized voting platform that ensures data integrity with blockchain.",
+    "features": [
+      "Voter authentication via MetaMask",
+      "Secure, tamper-proof voting with audit trails",
+      "Real-time vote tallying and result display",
+      "Data storage on IPFS for added security"
+    ],
+    "difficulty": "Expert"
+  },
+  {
+    "id": 172,
+    "title": "Personal Movie Watchlist",
+    "description": "A movie watchlist app where users can track movies they want to watch or have watched.",
+    "features": [
+      "Search movies by title or genre",
+      "Add movies to “To Watch” or “Watched” lists",
+      "Rate and review movies",
+      "View trending or popular movies"
+    ],
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 173,
+    "title": "AI Resume Analyzer",
+    "description": "A resume analyzer that provides suggestions for improvement based on industry standards.",
+    "features": [
+      "Upload resume and get AI-driven insights",
+      "Keyword analysis for job descriptions",
+      "Tips for optimizing sections",
+      "Custom reports for skill gaps"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 174,
+    "title": "Blockchain-Based Voting System for Company Polls",
+    "description": "A secure voting system for corporate governance, built on blockchain to ensure transparency.",
+    "features": [
+      "Employee verification through wallet",
+      "Voting and result recording on the blockchain",
+      "Role-based access control",
+      "Analytics for voter turnout and results"
+    ],
+    "difficulty": "Expert"
+  },
+  {
+    "id": 175,
+    "title": "Language Learning App with Speech Recognition",
+    "description": "A language learning app that provides exercises and tracks pronunciation using speech recognition.",
+    "features": [
+      "Vocabulary practice with translations",
+      "Speech recognition to check pronunciation",
+      "Flashcard exercises with spaced repetition",
+      "Progress tracking and milestones"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 176,
+    "title": "AI-Based SEO Content Analysis Tool",
+    "description": "A tool to analyze website content and provide SEO improvement suggestions.",
+    "features": [
+      "Analyze content for readability and SEO",
+      "Keyword density analysis and improvement tips",
+      "Track SEO performance over time",
+      "Generate keyword suggestions based on topic"
+    ],
+    "difficulty": "Expert"
+  },
+  {
+    "id": 177,
+    "title": "Virtual Study Group Platform with Video Chat",
+    "description": "A study group platform where users can join rooms, discuss topics, and collaborate via video.",
+    "features": [
+      "Create or join virtual study rooms",
+      "Real-time chat and video collaboration",
+      "Share notes and resources",
+      "Study session scheduling and reminders"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 178,
+    "title": "Digital Recipe Card Organizer",
+    "description": "A recipe organizer where users can create and categorize digital recipe cards.",
+    "features": [
+      "Add recipes with ingredients and instructions",
+      "Categorize by cuisine, meal type, and difficulty",
+      "Search and filter recipes",
+      "Mark favorites for quick access"
+    ],
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 179,
+    "title": "Personal Journal with Photo Entries",
+    "description": "A journaling app where users can log entries with optional photos.",
+    "features": [
+      "Write journal entries with rich text",
+      "Attach photos to entries",
+      "Calendar view for entry organization",
+      "Search and filter by tags"
+    ],
+    "difficulty": "Advanced Beginner"
+  },
+  {
+    "id": 180,
+    "title": "Real-Time Forex Trading Platform with Analytics",
+    "description": "A forex trading platform with real-time market data and analytical tools for currency trading.",
+    "features": [
+      "Real-time forex rates and historical data",
+      "Analytics and AI-driven predictions",
+      "Customizable alerts for currency changes",
+      "Trading simulation with virtual currency"
+    ],
+    "difficulty": "Expert"
   }
 ]
 
