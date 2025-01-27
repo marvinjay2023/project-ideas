@@ -2146,6 +2146,234 @@
       "Trading simulation with virtual currency"
     ],
     "difficulty": "Expert"
+  },
+  {
+    "id": 181,
+    "title": "Family Recipe Sharing App",
+    "description": "A platform for families to store and share recipes, preserving family traditions.",
+    "features": [
+      "Share and comment on family recipes",
+      "Organize recipes by family member",
+      "Image uploads and recipe history",
+      "Private and public recipe sharing"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 182,
+    "title": "Mood-Based Music Recommendation",
+    "description": "A music recommendation app that suggests playlists based on the user’s current mood.",
+    "features": [
+      "Set mood and receive playlist suggestions",
+      "Save favorite playlists for easy access",
+      "View and share top recommendations",
+      "Simple UI with mood-based color themes"
+    ],
+    "difficulty": "Advanced Beginner"
+  },
+  {
+    "id": 183,
+    "title": "Team Project Management with Gantt Chart",
+    "description": "A project management tool where teams can assign tasks, track progress, and visualize schedules with a Gantt chart.",
+    "features": [
+      "Assign tasks and set deadlines",
+      "View project timelines in Gantt charts",
+      "Progress tracking with completion metrics",
+      "Team notifications for task updates"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 184,
+    "title": "AI-Driven Email Categorization Tool",
+    "description": "A tool that categorizes and prioritizes emails using AI for smarter inbox management.",
+    "features": [
+      "AI-based categorization (e.g., work, personal, spam)",
+      "Priority tagging for important emails",
+      "Email analytics with visual summaries",
+      "Automated response suggestions"
+    ],
+    "difficulty": "Expert"
+  },
+  {
+    "id": 185,
+    "title": "Virtual Flashcard Study Tool",
+    "description": "A study tool for creating and reviewing flashcards with progress tracking.",
+    "features": [
+      "Create and categorize flashcards by subject",
+      "Review flashcards in spaced repetition mode",
+      "Track accuracy and study progress",
+      "Customizable flashcard themes"
+    ],
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 186,
+    "title": "Blogging Platform with Real-Time Commenting",
+    "description": "A blogging platform that allows users to publish posts and interact with real-time comments.",
+    "features": [
+      "Post creation and rich text editing",
+      "Real-time comments with notifications",
+      "User profiles with post history",
+      "Popular tags and trending posts"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 187,
+    "title": "Smart Contracts for Insurance Claims",
+    "description": "A blockchain-based insurance claim platform with smart contracts to automate claims and payouts.",
+    "features": [
+      "Smart contracts for transparent claim validation",
+      "Decentralized payment processing for claims",
+      "Claim history and audit trail",
+      "Wallet integration for secure identity verification"
+    ],
+    "difficulty": "Expert"
+  },
+  {
+    "id": 188,
+    "title": "Goal Setting and Tracking App",
+    "description": "A goal-setting app that helps users set, track, and achieve personal goals.",
+    "features": [
+      "Set and categorize personal goals",
+      "Progress tracking and completion history",
+      "Notifications for milestones",
+      "Simple UI with motivational themes"
+    ],
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 189,
+    "title": "Health Data Tracker with Wearable Integration",
+    "description": "A health data tracker that syncs with wearable devices to monitor activity, sleep, and vitals.",
+    "features": [
+      "Sync data from wearable devices",
+      "Weekly and monthly health reports",
+      "Goal setting for steps, sleep, and heart rate",
+      "Visual data representation with charts"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 190,
+    "title": "Multi-Currency E-commerce Platform",
+    "description": "An e-commerce platform that supports multiple currencies and real-time conversion rates.",
+    "features": [
+      "Product catalog with multi-currency support",
+      "Real-time currency conversion based on user location",
+      "Cart and checkout with Stripe integration",
+      "Transaction history and order tracking"
+    ],
+    "difficulty": "Expert"
+  },
+  {
+    "id": 191,
+    "title": "Minimalist Daily Planner",
+    "description": "A simple daily planner for organizing tasks and events.",
+    "features": [
+      "Add and organize daily tasks",
+      "Set reminders for important tasks",
+      "Color-coded categories for easy organization",
+      "Dark mode for night usage"
+    ],
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 192,
+    "title": "E-learning Platform with Video Courses",
+    "description": "An online learning platform where users can enroll in courses and track progress.",
+    "features": [
+      "Course creation and enrollment",
+      "Video playback with progress tracking",
+      "Quizzes and assessments for each module",
+      "Completion certificates and badges"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 193,
+    "title": "Real Estate Marketplace with Virtual Tours",
+    "description": "A real estate marketplace with virtual tours to enhance the home-viewing experience.",
+    "features": [
+      "Property listings with detailed descriptions",
+      "Interactive virtual tours with 3D views",
+      "Property comparison tool",
+      "Save and share favorite properties"
+    ],
+    "difficulty": "Expert"
+  },
+  {
+    "id": 194,
+    "title": "Music Player with Lyrics Display",
+    "description": "A music player that displays lyrics in sync with the song.",
+    "features": [
+      "Stream music with Spotify integration",
+      "Lyrics display in sync with playback",
+      "Save favorite songs and lyrics",
+      "Customize playback speed and quality"
+    ],
+    "difficulty": "Advanced Beginner"
+  },
+  {
+    "id": 195,
+    "title": "Smart Home Control Dashboard",
+    "description": "A dashboard for controlling smart home devices like lights, thermostat, and security.",
+    "features": [
+      "Real-time control of smart devices",
+      "Temperature, light, and security monitoring",
+      "Device scheduling and automation",
+      "User alerts for device status"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 196,
+    "title": "Decentralized Content Sharing Platform",
+    "description": "A decentralized platform where users can share and monetize content without a centralized authority.",
+    "features": [
+      "Decentralized content hosting with IPFS",
+      "Wallet-based tipping for monetization",
+      "User profiles with content history",
+      "Transaction transparency and history"
+    ],
+    "difficulty": "Expert"
+  },
+  {
+    "id": 197,
+    "title": "Countdown to Events",
+    "description": "An app that allows users to create countdowns for important events.",
+    "features": [
+      "Create multiple countdowns for events",
+      "Customizable reminders for each countdown",
+      "Visual themes for different event types",
+      "Track time left in days, hours, and minutes"
+    ],
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 198,
+    "title": "Fitness Progress Tracker with Photo Comparisons",
+    "description": "A fitness tracker where users can log workouts, and upload progress photos.",
+    "features": [
+      "Log workouts and goals by date",
+      "Track progress with weight, reps, and sets",
+      "Upload and compare progress photos",
+      "Visual analytics for workout trends"
+    ],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 199,
+    "title": "AI-Powered Legal Document Analysis Tool",
+    "description": "A tool that scans legal documents and highlights key clauses, risks, and obligations.",
+    "features": [
+      "Document scanning with NLP analysis",
+      "Highlight key clauses and risk indicators",
+      "Custom alerts for deadlines and obligations",
+      "Save and organize scanned documents"
+    ],
+    "difficulty": "Expert"
   }
 ]
 
